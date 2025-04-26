@@ -1,0 +1,2 @@
+Reduction time = 0.007070 s
+Reduction time = 0.003297 s
